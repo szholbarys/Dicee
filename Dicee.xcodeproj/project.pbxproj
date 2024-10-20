@@ -11,6 +11,7 @@
 		E82BFB662CB96B3900B9A94B /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = E82BFB652CB96B3900B9A94B /* ContentView.swift */; };
 		E82BFB682CB96B3B00B9A94B /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = E82BFB672CB96B3B00B9A94B /* Assets.xcassets */; };
 		E82BFB6B2CB96B3B00B9A94B /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = E82BFB6A2CB96B3B00B9A94B /* Preview Assets.xcassets */; };
+		E87CB3FD2CC579D20032778C /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = E87CB3FC2CC579D20032778C /* ViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +20,7 @@
 		E82BFB652CB96B3900B9A94B /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		E82BFB672CB96B3B00B9A94B /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		E82BFB6A2CB96B3B00B9A94B /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		E87CB3FC2CC579D20032778C /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -55,6 +57,7 @@
 				E82BFB652CB96B3900B9A94B /* ContentView.swift */,
 				E82BFB672CB96B3B00B9A94B /* Assets.xcassets */,
 				E82BFB692CB96B3B00B9A94B /* Preview Content */,
+				E87CB3FC2CC579D20032778C /* ViewController.swift */,
 			);
 			path = Dicee;
 			sourceTree = "<group>";
@@ -137,6 +140,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				E87CB3FD2CC579D20032778C /* ViewController.swift in Sources */,
 				E82BFB662CB96B3900B9A94B /* ContentView.swift in Sources */,
 				E82BFB642CB96B3900B9A94B /* DiceeApp.swift in Sources */,
 			);
